@@ -18,10 +18,21 @@ RF, RNN, LSTM).
 ### Sound samples
 
 #### Low
+![Low sound](./images/low.png)
+![Low sound](./images/low_sg.png)
+<hr>
 
-![SSL Scheme](./images/low.png)
-![SSL Scheme](./images/low_sg.png)
-<br>
-                                      |
+#### Medium
+![Medium sound](./images/medium.png)
+![Medium sound](./images/medium_sg.png)
+<hr>
 
+#### Loud
+![Loud sound](./images/loud.png)
+![Loud sound](./images/loud_sg.png)
+<hr>
+                                      
+### Localization
+Direction of arrival estimation;
+![DoA](./images/doa.png)
 
