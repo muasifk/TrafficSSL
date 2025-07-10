@@ -16,9 +16,12 @@ RF, RNN, LSTM).
 ## Sample Results
 
 ### Sound samples
-|    Signal          |           Spectogram     |
-|![SSL Scheme](./images/low.png)|![SSL Scheme](./images/low_sg.png)|
-|<br> Low                                       |
+
+#### Low
+
+![SSL Scheme](./images/low.png)
+![SSL Scheme](./images/low_sg.png)
+<br>
                                       |
 
 
